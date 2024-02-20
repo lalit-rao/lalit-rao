@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **how to better integrate MERN Stack Apps.**
 
-- 👨‍💻 All of my projects are available at [https://lalit-portfolio.vercel.app/](https://lalit-portfolio.vercel.app/)
-
 - 💬 Ask me about **React, Tailwind anything about Development**
 
 - 📫 How to reach me **lalitmrao@gmail.com**
