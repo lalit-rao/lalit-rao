@@ -20,6 +20,13 @@
 
 ---
 
+## 🌟 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=lalit-rao&style=flat-square&color=blue)
+
+---
+---
+
 ## 📊 GitHub Stats
 
 ![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalit-rao&show_icons=true&theme=tokyonight&count_private=true)
