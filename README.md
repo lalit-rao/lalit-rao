@@ -49,13 +49,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-rao&layout=compact&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalit-rao&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalit-rao&theme=dracula)
 
-![GitHub Contribution Snake](https://github.com/lalit-rao/lalit-rao/blob/output/github-contribution-grid-snake.svg)
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=lalit-rao&theme=onedark" alt="lalit-rao" /></p>
-
-<h3 align="left">🔥 GitHub Activity Graph:</h3>
-<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lalit-rao&theme=react-dark" alt="lalit-rao" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalit-rao&theme=radical)
