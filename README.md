@@ -47,10 +47,8 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalit-rao&show_icons=true&locale=en&layout=compact&theme=radical" alt="lalit-rao" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalit-rao&layout=compact&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalit-rao&show_icons=true&locale=en&theme=radical" alt="lalit-rao" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalit-rao&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalit-rao&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalit-rao&&theme=radical" alt="lalit-rao" /></p>
